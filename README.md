@@ -35,4 +35,4 @@ Use [polynomial interpolation over finite field](https://people.eecs.berkeley.ed
 
 
 ### NOTES
-- it has been tested to work for decimal numbers upto `2000 digits`, it does so in reasonable time
+- it has been tested to work for secrets that are decimal numbers upto `2000 digits`, it does so in reasonable time `<30 sec`
