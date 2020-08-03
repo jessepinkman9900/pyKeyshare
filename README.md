@@ -15,7 +15,7 @@ Use [polynomial interpolation over finite field](https://people.eecs.berkeley.ed
     ```
     python3 keyshare.py -g <N> <K> <INPUT_file>
     ```
-    - preferably <img src="https://render.githubusercontent.com/render/math?math=n=2*k-1">
+    - preferably <img src="https://render.githubusercontent.com/render/math?math=n=2k-1">
     - `<input_file>` should have format similar to [this](./sample_files/input_file)
     - output file should look something like [this](./sample_files/k_points)
 
